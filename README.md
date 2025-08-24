@@ -93,34 +93,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2324&layout=compact&hide_border=true&langs_count=8&theme=radical" />
 </p>
 
+--
 ---
 
-### 🏆 Trophies & Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sampath-2324&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-### 📌 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampath-2324&bg_color=0d1117&color=58a6ff&line=38bdae&point=f0f6fc&area=true&hide_border=true" />
-</p>
-
-
-
----
-
-### 🤝 Connect With Me
-<p>
-  <a href="mailto:maracharaddisampath@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sampath0608/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### ⚡ Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
-
-<!-- EXTRAS (Optional) -->
-<!-- Contribution Snake (needs GitHub Action to generate the SVG in your repo)
-![snake gif](https://github.com/Sampath-2324/Sampath-2324/blob/output/github-contribution-grid-snake.svg)
--->
