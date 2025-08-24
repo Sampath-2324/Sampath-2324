@@ -96,9 +96,16 @@
 ---
 
 ### 🏆 Trophies & Highlights
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sampath-2324&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sampath-2324&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
 </p>
+### 📌 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampath-2324&bg_color=0d1117&color=58a6ff&line=38bdae&point=f0f6fc&area=true&hide_border=true" />
+</p>
+
+
 
 ---
 
